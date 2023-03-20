@@ -6,12 +6,12 @@ h1 {
     text-align: center;
 }
 
-table, tr {
+table, tr, td {
     border-collapse: collapse;
     background-color: black;
     color: white;
     text-align: center;
-    border-width: 1px;
+    border: 1px solid white;
 }
 
 td {
